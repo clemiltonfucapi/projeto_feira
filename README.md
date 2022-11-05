@@ -53,3 +53,14 @@ Run script using:
     python drowsiness_detect.py
 
 The algorithm for Eye Aspect Ratio was taken from pyimagesearch.com blog, by Adrian RoseBrock.
+
+# Instalar dlib
+https://www.geeksforgeeks.org/how-to-install-dlib-library-for-python-in-windows-10/
+##
+
+# Links para consulta
+https://pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
+
+https://pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
+
+https://pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-opencv-python-dlib/
